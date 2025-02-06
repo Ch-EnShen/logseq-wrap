@@ -2,6 +2,8 @@
 
 # logseq-plugin-wrap
 
+**Disclaimer: logseq-wrap plugin is not written by myself, I just copy original text wrapper plugin which lost in logseq**
+
 创建自定义文字包围/替换及快捷键，默认提供了一组实用的配置。
 
 ## 使用展示
